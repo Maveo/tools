@@ -33,3 +33,10 @@ Tailwind plugin with clean, prebuilt UI components and themes.
 
 ### 🧩 [Heroicons](https://heroicons.com/)  
 Beautiful, MIT-licensed SVG icons for Tailwind CSS projects.  
+
+---
+
+## 🌐 Browser Tools
+
+### 🔍 [Browser Tools Collection](./browser.md)
+A collection of useful browser-based tools and resources, including fingerprinting tools and other browser utilities.

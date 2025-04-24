@@ -2,6 +2,9 @@
 
 ## ☁️ Cloud Collaboration
 
+### 📜 [Git Commit Naming Conventions](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)  
+Standardizes commit messages for clarity and consistency in project history.
+
 ### 🌐 [draw.io](https://www.drawio.com/)  
 Web-based diagramming tool for creating flowcharts, wireframes, UML, and architecture diagrams collaboratively.
 

@@ -14,7 +14,11 @@ Web-based diagramming tool for creating flowcharts, wireframes, UML, and archite
 
 ### 🪟 [Windows](https://www.microsoft.com/windows)  
 The legacy Open OS hit  
-🤖 Install image [Windows Unattend Generator](https://schneegans.de/windows/unattend-generator/)
+🤖 Install image [Windows Unattend Generator](https://schneegans.de/windows/unattend-generator/)  
+🩻 Debloat installation [Raphire Debloat](https://github.com/Raphire/Win11Debloat)
+```powershell
+& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+```
 
 ### 📝 [VS Code](https://code.visualstudio.com/)  
 Lightweight, extensible code editor with built-in terminal and Git support.  

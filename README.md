@@ -12,8 +12,9 @@ Web-based diagramming tool for creating flowcharts, wireframes, UML, and archite
 
 ## 🖥️ Local
 
-### 🪟 [Windows Unattend Generator](https://schneegans.de/windows/unattend-generator/)  
-Tool for creating Windows unattended installation answer files.
+### 🪟 [Windows](https://www.microsoft.com/windows)  
+The legacy Open OS hit  
+🤖 Install image [Windows Unattend Generator](https://schneegans.de/windows/unattend-generator/)
 
 ### 📝 [VS Code](https://code.visualstudio.com/)  
 Lightweight, extensible code editor with built-in terminal and Git support.  

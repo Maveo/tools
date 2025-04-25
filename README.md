@@ -12,6 +12,9 @@ Web-based diagramming tool for creating flowcharts, wireframes, UML, and archite
 
 ## 🖥️ Local
 
+### 🪟 [Windows Unattend Generator](https://schneegans.de/windows/unattend-generator/)  
+Tool for creating Windows unattended installation answer files.
+
 ### 📝 [VS Code](https://code.visualstudio.com/)  
 Lightweight, extensible code editor with built-in terminal and Git support.  
 🔌 Recommended Extension Pack: [Angular Schule](https://marketplace.visualstudio.com/items?itemName=angular-schule.angular-schule-extension-pack)

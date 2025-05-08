@@ -19,6 +19,10 @@ The legacy Open OS hit
 ```powershell
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 ```
+🗝️ Activate windows [massgravel Activation](https://github.com/massgravel/Microsoft-Activation-Scripts)
+```powershell
+irm https://get.activated.win | iex
+```
 
 ### 📝 [VS Code](https://code.visualstudio.com/)  
 Lightweight, extensible code editor with built-in terminal and Git support.  
